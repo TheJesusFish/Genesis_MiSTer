@@ -1,3 +1,6 @@
+# This core has been deprecated in favor of the [**Nuked-MD MegaDrive Core**](https://github.com/MiSTer-devel/MegaDrive_MiSTer)
+
+
 # [SEGA Megadrive/Genesis](https://en.wikipedia.org/wiki/Sega_Genesis) for [MiSTer Platform](https://github.com/MiSTer-devel/Main_MiSTer/wiki)
 
 This is the port of the [fpgagen](https://github.com/Torlus/fpgagen) core.
